@@ -105,7 +105,6 @@ class FormController extends BaseController
        $tabla.='<td>'.$value->primer_apellido.'</td>';
        $tabla.='<td>'.$value->segundo_apellido.'</td>';
        $tabla.='<td>'.$value->genero.'</td>';
-       $tabla.='<td>'.$value->edad.'</td>';
        $tabla.='<td>'.$value->fecha_nacimiento.'</td>';
        $tabla.='<td>'.$value->mail.'</td>';
        $tabla.='<td>'.$value->celular.'</td>';
@@ -162,17 +161,24 @@ class FormController extends BaseController
         
         //envio de correo
 
+       if($this->inscritos()<=40){
+
         $this->store($formulario, $request->input());
 
-        Mail::send('email', ['user' => $request->input('mail')], function ($m) {
-            $m->from('no-reply@epaf.com', 'Registro Exitoso EPAF');
+        Mail::send('email', ['user' => $request->input('mail')], function ($m) use ($request) {
+            $m->from('no-reply@epaf.com', 'Registro Exitoso RECORRIDO DE FANTASMAS EN LA CANDELARIA');
 
-            $m->to($request->input('mail'), $request->input('primer_nombre'))->subject('Registro Exitoso EPAF!');
+            $m->to($request->input('mail'), $request->input('primer_nombre'))->subject('Registro Exitoso RECORRIDO DE FANTASMAS EN LA CANDELARIA!');
         });
+      }else{
+
+        return view('error', ['error' => 'Lo sentimos el limite de inscritos fue superado!']);
+
+      }
 
         //envio de correo
 
-        return redirect('form')->with('status', 'Registro insertado!');
+        return view('error', ['error' => 'Registro insertado!']);
 
     }
 
@@ -229,9 +235,9 @@ class FormController extends BaseController
 
   
 
-    private function max_codigo(){
-      $codigo = Form::max('codigo');
-      return $codigo++;
+    private function inscritos(){
+      $cant = Form::count('id');
+      return $cant;
     }
 
     private function store($formulario, $input)

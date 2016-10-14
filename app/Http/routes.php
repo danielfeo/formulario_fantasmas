@@ -34,7 +34,7 @@ Route::get('login', function () {
 Route::get('cerrar', function () {      
 	session_start();
 	session_destroy();
-    return view('welcome');
+    return redirect('/');
 });
 
 

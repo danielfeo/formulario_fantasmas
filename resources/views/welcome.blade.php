@@ -2,18 +2,42 @@
 
 @section('content') 
          <link rel="stylesheet" type="text/css" href="public/Css/form.css">
+         <link rel="stylesheet" type="text/css" href="public/Css/slider_styles.css">
               
            <section id="page1">
 			    <div class="panel panel-default">
 			  	<div class="panel-heading">Inicio</div>
 			  	<div class="panel-body">
-				<div class="freebirdFormviewerViewFormContent "><div class="freebirdFormviewerViewHeaderHeader"><div class="freebirdFormviewerViewHeaderTitleRow"><div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">GUIÓN RECORRIDO DE FANTASMAS EN LA CANDELARIA </div></div><div class="freebirdFormviewerViewHeaderDescription" dir="auto"><p>El centro histórico de Bogotá no solo se ha convertido en  patrimonio cultural, arquitectónico, histórico y social para la ciudad y el país, si no también se ha convertido en un lugar que guarda un gran misterio reflejado en sus ostentadas casas y calles. </p> 
+				<div class="freebirdFormviewerViewFormContent "><div class="freebirdFormviewerViewHeaderHeader"><div class="freebirdFormviewerViewHeaderTitleRow"><div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">RECORRIDO DE FANTASMAS EN LA CANDELARIA </div></div>
+
+				<div class="stage">
+
+					<div id="SLDR-ONE" class="sldr">
+						<ul class="wrp animate">
+							<li class="elmnt-one"><div class="skew"><div class="wrap"><img src="public/Img/home_img_2.jpg" width="1000" height="563"></div></div></li>
+							<li class="elmnt-two"><div class="skew"><div class="wrap"><img src="public/Img/home_img_1.jpg" width="1000" height="563"></div></div></li>
+						</ul>
+					</div>
+
+					<div class="clear"></div>
+
+					
+					<ul class="selectors">
+						<li class="focalPoint"><a href="">•</a></li><li><a href="">•</a></li><li><a href="">•</a></li><li><a href="">•</a></li>
+					</ul>
+
+
+
+					
+				</div>
+				<script src="public/Js/jquery.sldr.js"></script>
+				<div class="freebirdFormviewerViewHeaderDescription" dir="auto"><p>El centro histórico de Bogotá no solo se ha convertido en  patrimonio cultural, arquitectónico, histórico y social para la ciudad y el país, si no también se ha convertido en un lugar que guarda un gran misterio reflejado en sus ostentadas casas y calles. </p> 
 <p>La candelaria es la localidad más pequeña de la ciudad pero quizás es la más rica en historia, es la localidad más reconocida tradicionalmente de las 20 que tiene la capital, allí nacen innumerables historias entre ellas las de misterio y terror. A lo largo de los años la tradición oral de la ciudad a echo de este lugar un espacio extraordinario para visitar y conocer.</p>
 
 <h2>Descripción del recorrido</h2>
 <p>El recorrido da inicio en la Plaza de Bolivar, el guía de caminatas del IDRD dará las recomendaciones asi como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecucion. Se dará inicio el recorrido desde la plaza de Bolivar</p>
 <h2>Durante el recorrido se reconocerán los siguientes aspectos:</h2>
-<ul>
+<ul class="ul_inicio">
 <li>Fantasmales</li>
 <li>Históricos</li>
 <li>Culturales</li>
@@ -59,7 +83,7 @@
 
 <h2>Recomendaciones</h2>
 
-<ul>
+<ul class="ul_inicio">
 <li>Llevar ropa abrigadora</li>
 <li>Hidratación</li>
 <li>Calzado cómodo</li>
@@ -70,8 +94,9 @@
 <li>Caminata apta para mayores de 12 años </li>
 <li>Abstenerse de asistir si no se encuentra inscrito</li>
 </ul>
+ <a  class="btn btn-info" href="registro">Registrarse</a>
+ </div></div></div></div>
 
-  </div></div></div></div>
 
 	</section>
        
