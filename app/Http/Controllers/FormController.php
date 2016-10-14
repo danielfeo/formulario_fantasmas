@@ -167,7 +167,7 @@ class FormController extends BaseController
         Mail::send('email', ['user' => $request->input('mail')], function ($m) {
             $m->from('no-reply@epaf.com', 'Registro Exitoso EPAF');
 
-            $m->to($request->input('mail'), $request->input('nombre'))->subject('Registro Exitoso EPAF!');
+            $m->to($request->input('mail'), $request->input('primer_nombre'))->subject('Registro Exitoso EPAF!');
         });
 
         //envio de correo
@@ -237,7 +237,7 @@ class FormController extends BaseController
     private function store($formulario, $input)
     {
 
-        $formulario['id'] = $input['id'];
+        
         $formulario['cedula'] = $input['cedula'];
         $formulario['tipo_documento'] = $input['tipo_documento'];
         $formulario['primer_nombre'] = $input['primer_nombre'];

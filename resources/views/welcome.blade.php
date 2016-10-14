@@ -4,12 +4,75 @@
          <link rel="stylesheet" type="text/css" href="public/Css/form.css">
               
            <section id="page1">
-			    	<div class="panel panel-default">
+			    <div class="panel panel-default">
 			  	<div class="panel-heading">Inicio</div>
 			  	<div class="panel-body">
-				<div class="freebirdFormviewerViewFormContent "><div class="freebirdFormviewerViewHeaderHeader"><div class="freebirdFormviewerViewHeaderTitleRow"><div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">ESCUELA DE PROFESORES DE ACTIVIDAD FÍSICA EPAF - IDRD 2016 </div></div><div class="freebirdFormviewerViewHeaderDescription" dir="auto">El INSTITUTO DISTRITAL DE RECREACIÓN Y DEPORTES - IDRD,Subdirección Técnica de Recreación y DeportesÁrea de Recreación y el Programa de Recreovía<p>De acuerdo con la Resolución 512 de 2003 (Octubre 08 - <a href="https://www.google.com/url?q=http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i%3D11294&amp;sa=D&amp;ust=1470865368848000&amp;usg=AFQjCNEUSXtgGhjHWRdaleuMNwMmF177IQ">http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=11294</a>) por el cual se crea la Escuela de Profesores de Actividad Física con el fin de cualificar y seleccionar el personal necesario para desempeñar el cargo de "Profesores de Actividad Física", mediante un proceso metodológico que proporcione las herramientas teóricas, prácticas y metodológicas para la continuidad del programa de Recreovía.</p><p>Cuyo objetivo es: seleccionar, capacitar y cualificar al personal que prestará sus servicios como "PROFESOR DE ACTIVIDAD FÍSICA", dentro de las políticas y programas del Instituto Distrital para la Recreación y el Deporte I.D.R.D. en el desarrollo de esta Escuela participarán activamente las dependencias del Instituto que se consideren necesarias</p><p></p></div></div><div class="freebirdFormviewerViewItemList" role="list"><div role="listitem" class="freebirdFormviewerViewItemsItemItem" jsname="ibnC6b" jscontroller="RGrRJf" data-item-id="1448051660"><div class="freebirdFormviewerViewItemsItemItemheader"><div class="freebirdFormviewerViewItemsItemItemTitleContainer"><div class="freebirdFormviewerViewItemsItemItemTitle" dir="auto"></div></div></div><div class="freebirdFormviewerViewItemsEmbeddedobjectCenter"><div class="freebirdFormviewerViewItemsEmbeddedobjectImageWrapper" style="width: 740px; "><img src="https://lh3.googleusercontent.com/XDWf30maoMhC5eBMR2SgOWpe_oa73kI-xbhpY-MKaD7FYJjtTEl3D-nCEdHFrczy9lkOsp6k1g" class="freebirdFormviewerViewItemsEmbeddedobjectImage" style="width: 740px; " title="" alt=""></div></div></div><div role="listitem" class="freebirdFormviewerViewItemsItemItem" jsname="ibnC6b" jscontroller="RGrRJf" data-item-id="283376779"><div class="freebirdFormviewerViewItemsItemItemheader"><div class="freebirdFormviewerViewItemsItemItemTitleContainer"><div class="freebirdFormviewerViewItemsItemItemTitle" dir="auto"></div></div></div><div class="freebirdFormviewerViewItemsVideoEl freebirdFormviewerViewItemsEmbeddedobjectCenter"><iframe class="freebirdFormviewerViewItemsVideoVideo" src="//youtube.com/embed/DN6aHIpFUFo" style="width: 80%; height: 250px;"></iframe></div><div jsname="XbIQze" class="freebirdFormviewerViewItemsItemErrorMessage" id="i.err.283376779" role="alert"></div></div><div role="listitem" class="freebirdFormviewerViewItemsItemItem" jsname="ibnC6b" jscontroller="RGrRJf" data-item-id="327617382"><div class="freebirdMaterialHeaderbannerLabelContainer freebirdFormviewerViewItemsSectionheaderBanner" jsname="bLLMxc" role="heading"><div class="freebirdMaterialHeaderbannerLabelTextContainer freebirdSolidBackground"><div class="freebirdMaterialHeaderbannerSectionText freebirdFormviewerViewItemsSectionheaderBannerText">FORMULARIO DE INSCRIPCIÓN</div></div><div class="freebirdMaterialHeaderbannerSectionTriangleContainer"></div></div>
+				<div class="freebirdFormviewerViewFormContent "><div class="freebirdFormviewerViewHeaderHeader"><div class="freebirdFormviewerViewHeaderTitleRow"><div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">GUIÓN RECORRIDO DE FANTASMAS EN LA CANDELARIA </div></div><div class="freebirdFormviewerViewHeaderDescription" dir="auto"><p>El centro histórico de Bogotá no solo se ha convertido en  patrimonio cultural, arquitectónico, histórico y social para la ciudad y el país, si no también se ha convertido en un lugar que guarda un gran misterio reflejado en sus ostentadas casas y calles. </p> 
+<p>La candelaria es la localidad más pequeña de la ciudad pero quizás es la más rica en historia, es la localidad más reconocida tradicionalmente de las 20 que tiene la capital, allí nacen innumerables historias entre ellas las de misterio y terror. A lo largo de los años la tradición oral de la ciudad a echo de este lugar un espacio extraordinario para visitar y conocer.</p>
 
-			</div></div>
+<h2>Descripción del recorrido</h2>
+<p>El recorrido da inicio en la Plaza de Bolivar, el guía de caminatas del IDRD dará las recomendaciones asi como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecucion. Se dará inicio el recorrido desde la plaza de Bolivar</p>
+<h2>Durante el recorrido se reconocerán los siguientes aspectos:</h2>
+<ul>
+<li>Fantasmales</li>
+<li>Históricos</li>
+<li>Culturales</li>
+<li>Arquitectónicos</li>
+<li>Hídricos</li>
+</ul>
+
+<table width="589" >
+	<col width="281">
+	<col width="282">
+	<tr valign="top">
+		<td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>Punto de encuentro</p>
+		</td>
+		<td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>Plaza de Bolívar, esquina de la cra7a con calle 10ª Colegio San Bartolomé</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>Altitud</p>
+		</td>
+		<td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>2.600 m.s</td>
+	</tr>
+	<tr valign="top">
+		<td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>Temperatura</p>
+		</td>
+		<td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>14°</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>Nivel</p>
+		</td>
+		<td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+			<p>Medio</p>
+		</td>
+	</tr>
+</table>
+
+<h2>Recomendaciones</h2>
+
+<ul>
+<li>Llevar ropa abrigadora</li>
+<li>Hidratación</li>
+<li>Calzado cómodo</li>
+<li>Llevar carné de la eps</li>
+<li>Refrigerio.</li>
+<li>Medicamentos personales </li>
+<li>No llevar mascotas </li>
+<li>Caminata apta para mayores de 12 años </li>
+<li>Abstenerse de asistir si no se encuentra inscrito</li>
+</ul>
+
+  </div></div></div></div>
+
 	</section>
        
             

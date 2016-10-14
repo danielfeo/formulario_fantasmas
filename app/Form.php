@@ -8,7 +8,7 @@ class Form extends Model
 {
     //
 
-   protected $table = 'form';
+   protected $table = 'formulario';
 
    public function ciudad(){
 	

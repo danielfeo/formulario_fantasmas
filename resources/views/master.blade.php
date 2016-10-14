@@ -60,7 +60,7 @@
           <div class="navbar-collapse collapse" id="navbar-main">
             <ul class="nav navbar-nav">
               <li><a href="registro" id="a-registro">Registrarse</a></li>
-              <li><a href="descarga" id="a-descarga">Descargar Carnet</a></li>
+              <!--<li><a href="descarga" id="a-descarga">Descargar Carnet</a></li>-->
               <li><a href="login" id="a-login" >Iniciar sesion</a></li>
             </ul>
 
@@ -82,8 +82,8 @@
           <div class="page-header" id="banner">
             <div class="row">
               <div class="col-lg-8 col-md-7 col-sm-6">
-                <h1>MÓDULO</h1>
-                <p class="lead"><h1>EPAF</h1></p>
+                <h1>IDRD</h1>
+                <p class="lead"><h1>GUIÓN RECORRIDO DE FANTASMAS EN LA CANDELARIA</h1></p>
               </div>
               <div class="col-lg-4 col-md-5 col-sm-6">
                  <div align="right"> 
